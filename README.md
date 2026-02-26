@@ -10,4 +10,5 @@ A simple motivational quote card built using HTML and CSS.
 - Clean card design
 - Motivational quote
 - Responsive layout
+#author
 Sarthak Garg
